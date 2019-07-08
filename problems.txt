@@ -63,4 +63,9 @@ or import code from another repository
 
 You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
-Final copy after merging
+
+
+
+https://www.youtube.com/watch?v=OVQK2zzb6U8&list=PLsyeobzWxl7q2eaUkorLZExfd7qko9sZC&index=5
+
+create repo ---> create file/files ---> edit file and commit to master ---> make a branch cut ---> do changes to both brancges ---> create pull request (for merging two branches) ---> check the conflicts and resolve it ---> Then commit merge ---> Merger pull request ---> Confirm marge 
