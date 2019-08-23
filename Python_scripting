@@ -1,0 +1,240 @@
+https://www.linkedin.com/learning/learning-python-2/welcome
+
+Good to have programming tools: editors and IDEs
+- Visual Studio Code for Web Developers
+
+islamam@islamam:~/Downloads$ python3 --version 
+Python 3.5.2
+
+
+
+islamam@islamam:~/Desktop/python_scripts$ python3.6
+Python 3.6.3 (default, Mar 21 2019, 13:31:34) 
+[GCC 5.4.0 20160609] on linux
+Type "help", "copyright", "credits" or "license" for more information.
+>>> 2+2 
+4
+>>> 
+>>> print ("Hello world")
+Hello world
+>>> exit()         			# this will exit the interpreter. quit also wroks the same. 
+
+
+------------------------
+# firts python script
+# 
+
+2+2
+
+def main():         # this will define main function and colon starts the scope block
+    print ("hello world")
+
+if __name__=="__main__":
+    main()
+
+
+
+Lecture:
+--------
+Conditional Structures:
+
+What does the if __name__ == "__main__": do?
+
+Whenever the Python interpreter reads a source file, it does two things:
+
+    it sets a few special variables like __name__, and then
+
+    it executes all of the code found in the file.
+
+Let's see how this works and how it relates to your question about the __name__ checks we always see in Python scripts.
+
+
+
+Lecture:
+--------
+Classes: classes are a great way of encapsulating functionality that can be kept together and passed around as a complete module to use another project 
+
+
+The flow of python architecture is:
+
+Interpreter module (datetime)----> Standard library ---> Classes (date, time, and datetime) [classes are predefined functions] 
+ 
+
+Check for Locale in Python:
+Locale is the local date and time format of your zone, and your computer.
+
+
+Timedelta: 
+So for example, given a particular date, you might want to calculate a date in the future or the past relative to that date. We can use the time delta class in Python to help us with this,A timedelta is baseically a span of time. It's not a particular date, it's not a particular time, it's a span of time. And you can use this class to perform time-based mathematics.
+
+
+
+
+#######################################################################################
+#######################################################################################
+https://www.linkedin.com/learning/python-essential-training-2/installing-python-and-komodo-on-a-mac
+
+Difference between ptython 2 and 3:
+
+****** In python2 print is a keyword and doesn't need parenthesis but in python3 print is a function and need a parenthesis.
+****** In 2, there is one interger type but in 3 there is integer and long integer.
+****** Code is not backward compatible from 2 to 3
+****** 3 is a 10 years old package
+****** For python3 in Mac and Windows, there is an editor available called Komodo.
+****** In python, everything is an object.
+	'Hello, world'.lower()'
+
+
+******  ctrl + shift + r to run the code
+****** ctrl + slash  to comment out any line
+****** Inside print what we write is called print object
+
+****** under class there could be functions. Sometimes functions are called methods, and variables inside a class is called properties. 
+
+****** In python there is no difference between single quote or double quote
+
+
+Check what is a constructor?
+
+is, in, and, or, not, not in, is not are boolean operators.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
